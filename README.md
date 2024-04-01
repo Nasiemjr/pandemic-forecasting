@@ -38,8 +38,10 @@ Improve Accuracy
 
 Jupyter Notebook
 ----------------
-- This folder contains a Jupyter Notebook named "pandemic_forecasting.ipynb".
-- This notebooks contains step by step sections on how the data was scraped from https://www.worldometers.info/coronavirus/country/south-africa/ and prepared for the ARIMA model.
+- This folder contains the following files:
+  - pandemic_forecasting.ipynb: A Jupyter Notebook that contains step by step sections on how the data was scraped from https://www.worldometers.info/coronavirus/country/south-africa/ and prepared for the ARIMA model.
+  - data.csv: A CSV containing the next 7 days dates with the respective new cases for that day.
+  - new_cases_by_date.png: A line diagram of the new cases by date.
 
 Web Application
 ----------------
