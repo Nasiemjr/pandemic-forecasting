@@ -1,7 +1,7 @@
 Pandemic Forecasting Assessment
 ===============================
 
-[GitHub](https://github.com/Nasiemjr/pandemic-forecasting/tree/master)
+[GitHub](https://github.com/Nasiemjr/pandemic-forecasting/tree/master/Web%20Application)
 
 This Assessment can be divided into 4 parts (folders):
 ---------------------------------------------------
